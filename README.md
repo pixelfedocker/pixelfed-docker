@@ -18,7 +18,6 @@ This is an unofficial guide created by community contributors and AI assistance.
 ```bash
 git clone https://github.com/pixelfedocker/pixelfed-docker
 cd pixelfed-docker
-./scripts/setup.sh
 ```
 
 ## Documentation
