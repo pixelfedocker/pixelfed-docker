@@ -14,7 +14,7 @@ This is an unofficial guide created by community contributors and AI assistance.
 - Domain name
 - Basic terminal knowledge
 
-### Basic Setup
+### Copy this git
 ```bash
 git clone https://github.com/pixelfedocker/pixelfed-docker
 cd pixelfed-docker
