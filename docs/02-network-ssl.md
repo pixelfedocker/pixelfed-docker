@@ -1,4 +1,4 @@
-```markdown
+
 # Network & SSL Configuration
 
 This guide covers the network setup, domain configuration, and SSL certificate installation for your Pixelfed instance.
