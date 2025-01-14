@@ -1,4 +1,3 @@
-```markdown
 # Core Setup Guide
 
 This guide covers the basic setup of your Pixelfed instance, including system preparation, Docker installation, and initial configuration.
